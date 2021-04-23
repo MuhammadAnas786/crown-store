@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/crown-store/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/crown-store/static/js/main.030b36c0.chunk.js",
-    "main.js.map": "/crown-store/static/js/main.030b36c0.chunk.js.map",
-    "runtime-main.js": "/crown-store/static/js/runtime-main.ac37e65d.js",
-    "runtime-main.js.map": "/crown-store/static/js/runtime-main.ac37e65d.js.map",
-    "static/js/2.d7ac245c.chunk.js": "/crown-store/static/js/2.d7ac245c.chunk.js",
-    "static/js/2.d7ac245c.chunk.js.map": "/crown-store/static/js/2.d7ac245c.chunk.js.map",
+    "main.css": "/crown-store/static/css/main.34232ded.chunk.css",
+    "main.js": "/crown-store/static/js/main.8fe72635.chunk.js",
+    "main.js.map": "/crown-store/static/js/main.8fe72635.chunk.js.map",
+    "runtime-main.js": "/crown-store/static/js/runtime-main.de0d9e19.js",
+    "runtime-main.js.map": "/crown-store/static/js/runtime-main.de0d9e19.js.map",
+    "static/js/2.8ac8460c.chunk.js": "/crown-store/static/js/2.8ac8460c.chunk.js",
+    "static/js/2.8ac8460c.chunk.js.map": "/crown-store/static/js/2.8ac8460c.chunk.js.map",
     "index.html": "/crown-store/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/crown-store/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.d7ac245c.chunk.js.LICENSE.txt": "/crown-store/static/js/2.d7ac245c.chunk.js.LICENSE.txt"
+    "static/css/main.34232ded.chunk.css.map": "/crown-store/static/css/main.34232ded.chunk.css.map",
+    "static/js/2.8ac8460c.chunk.js.LICENSE.txt": "/crown-store/static/js/2.8ac8460c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac37e65d.js",
-    "static/js/2.d7ac245c.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.030b36c0.chunk.js"
+    "static/js/runtime-main.de0d9e19.js",
+    "static/js/2.8ac8460c.chunk.js",
+    "static/css/main.34232ded.chunk.css",
+    "static/js/main.8fe72635.chunk.js"
   ]
 }
